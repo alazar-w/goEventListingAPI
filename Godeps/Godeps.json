@@ -1,0 +1,56 @@
+{
+	"ImportPath": "github.com/goEventListingAPI",
+	"GoVersion": "go1.13",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/goEventListing/API/entity",
+			"Rev": "304c781f84d00845aef6260d6621fbca4f3c8f5c"
+		},
+		{
+			"ImportPath": "github.com/goEventListing/API/review",
+			"Rev": "304c781f84d00845aef6260d6621fbca4f3c8f5c"
+		},
+		{
+			"ImportPath": "github.com/goEventListing/API/review/services",
+			"Rev": "304c781f84d00845aef6260d6621fbca4f3c8f5c"
+		},
+		{
+			"ImportPath": "github.com/goEventListing/API/user",
+			"Rev": "304c781f84d00845aef6260d6621fbca4f3c8f5c"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Comment": "v1.9.11-36-g79a77d7",
+			"Rev": "79a77d771dee4e4b60e9c543e8663bbc80466670"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/inflection",
+			"Comment": "v1.0.0",
+			"Rev": "f5c5f50e6090ae76a29240b61ae2a90dd810112e"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Comment": "v1.3.0-19-g08a3b3d",
+			"Rev": "08a3b3d20bbeeab9ca4889bcdb65fec0423ef882"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "v1.2.0-21-gd7918e3",
+			"Rev": "d7918e36bee0ef49ef3dd9a17e575de83b26aac6"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "v1.2.0-21-gd7918e3",
+			"Rev": "d7918e36bee0ef49ef3dd9a17e575de83b26aac6"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/scram",
+			"Comment": "v1.2.0-21-gd7918e3",
+			"Rev": "d7918e36bee0ef49ef3dd9a17e575de83b26aac6"
+		}
+	]
+}

@@ -14,7 +14,7 @@ import (
 	"github.com/jinzhu/gorm"
 	"net/http"
 
-	"github.com/goEventListingsAPI/delivery/http/handler"
+	"github.com/goEventListingAPI/delivery/http/handler"
 	
 	_ "github.com/lib/pq"
 )
